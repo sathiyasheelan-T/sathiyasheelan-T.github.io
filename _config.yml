@@ -1,13 +1,1 @@
 theme: jekyll-theme-cayman
-navs:
-  - href: /
-    label: Home
-  - href: /categories/
-    label: Categories
-  - href: /wiki/
-    label: Wiki
-  - href: /tools/
-    label: Tools
-  - href: /open-source/
-    label: Open-source
-  - href: /about/
